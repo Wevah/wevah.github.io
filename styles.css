@@ -1,0 +1,6 @@
+@charset 'utf-8';
+
+body {
+	max-width: 800px;
+	font: system-ui, 'SF Pro Regular', 'Helvetica Neue', sans-serif;
+}
