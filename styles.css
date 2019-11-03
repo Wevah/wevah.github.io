@@ -3,4 +3,5 @@
 body {
 	max-width: 800px;
 	font-family: system-ui, 'SF Pro Regular', 'Helvetica Neue', sans-serif;
+	margin: 1em auto;
 }
